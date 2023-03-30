@@ -20,6 +20,9 @@ __Melhorias do projeto 01__ e _02_
 
 ### Funcionalidades a Desenvolver
 1. Área de Membros
+   1. Login Diferente para grupos diferentes
+   2. Descontos especial para grupos diferentes
+   3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de Bônus primeira compra
 
