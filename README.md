@@ -19,7 +19,7 @@ __Melhorias do projeto 01__ e _02_
 * Mysql
 
 ### Funcionalidades a Desenvolver
-1. Área de Menbros
+1. Área de Membros
 2. Integração com outros pagamentos
 3. Sistema de Bônus primeira compra
 
