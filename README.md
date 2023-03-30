@@ -26,6 +26,10 @@ __Melhorias do projeto 01__ e _02_
 2. Integração com outros pagamentos
 3. Sistema de Bônus primeira compra
 
-### Imagem Local
+#### Imagem Local
 
 ![Logo do Python](/Img/pyton.png)
+
+#### Imagem Externa
+
+![Logo PHP](https://pt.m.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
