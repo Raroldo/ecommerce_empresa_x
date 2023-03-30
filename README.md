@@ -36,4 +36,4 @@ __Melhorias do projeto 01__ e _02_
 
 ## Links interessantes
 
-![Google](https://www.google.com)
+[Google](https://www.google.com)
