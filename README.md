@@ -42,3 +42,5 @@ __Melhorias do projeto 01__ e _02_
 
 Contruibuidor Pricipal: https://github.com/Raroldo
 
+[![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/Raroldo)
+
