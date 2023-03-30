@@ -54,7 +54,7 @@ return a + b;
 
 ### Lista de Tarefas a Fazer
 
-- [ x ] Área de Membros
-- [  ] Integração com outros pagamentos
-- [  ] Sistema de Bônus primeira compra
-- [  ] CSS do Rodapé
+- [x] Área de Membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de Bônus primeira compra
+- [X] CSS do Rodapé
