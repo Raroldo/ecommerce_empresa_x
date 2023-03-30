@@ -5,5 +5,5 @@ vamos fazer um e-commerce para empresa x
 
 checkout, tela de produtos, catalogos, home com banner
 
-###### 
-Melhorias do projeto
+###### MELHORIAS DO PROJETO
+Melhorias do projeto 01 e 02
